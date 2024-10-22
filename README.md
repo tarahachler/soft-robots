@@ -1,2 +1,2 @@
-# soft-robots
-Workshop on Soft Robotics in the Master's Program in Media Design - HEAD Genève
+# Soft Robots
+Soft Robots is a semester project at the [Master Media Design](https://www.mastermediadesign.ch/#/) of [HEAD-Genève](https://www.hesge.ch/head/), in collaboration with the [O2R](https://www.cnrs.fr/fr/pepr/robotique-organique-o2r) project, [CNRS](https://www.cnrs.fr/fr).
